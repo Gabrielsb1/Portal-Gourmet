@@ -1,0 +1,7 @@
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Galinha Mineira', 'https://raw.githubusercontent.com/Gabrielsb1/frontend-restaurante/main/src/components/img/galinha%20mineira.png', 80);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Baião de dois', 'https://drive.google.com/file/d/1ii4LGWPuAjRqqNSFq7_F-Q8o_yxMgyeB/view?usp=share_link', 30);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Arroz Carreteiro', 'https://drive.google.com/file/d/1KV5KX1JDH_n8XlBBDbt3fIZ4W6qFZejv/view?usp=share_link', 30);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Moqueca Capixaba', 'https://drive.google.com/file/d/1mYmLWhvaMo2Vdcr8ybPr9rcYjPSm8rn8/view?usp=share_link', 50);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Picanha', 'https://drive.google.com/file/d/1alRV2bOs8Nb1-QojJ7dOy8_MhTakgQrr/view?usp=share_link', 90);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Feijoada', 'https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg', 80);
+INSERT INTO tb_food (title, urlimg, price) VALUES ('Caldo de Mocotó', 'https://drive.google.com/file/d/1DvT5WUOsnYQYZs_9RhHA6t7I88Tm6lsY/view?usp=share_link', 40);
